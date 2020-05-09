@@ -1,2 +1,3 @@
 # Net-Banking
-prototype of net banking using SQL and PHP.
+A prototype of online net banking using SQL and PHP.
+
